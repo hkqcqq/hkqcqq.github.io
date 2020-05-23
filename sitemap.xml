@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/05/23/test/</loc>
+    
+    <lastmod>2020-05-23T19:15:39.813Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2020/05/21/Keqi-He/</loc>
     
     <lastmod>2020-05-21T15:23:48.510Z</lastmod>
