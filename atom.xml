@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-23T19:15:39.813Z</updated>
+  <updated>2020-05-31T19:16:08.199Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2020/05/23/test/"/>
-    <id>http://yoursite.com/2020/05/23/test/</id>
-    <published>2020-05-23T19:15:39.000Z</published>
-    <updated>2020-05-23T19:15:39.813Z</updated>
+    <title>InSAR Basics and Review</title>
+    <link href="http://yoursite.com/2020/05/31/test/"/>
+    <id>http://yoursite.com/2020/05/31/test/</id>
+    <published>2020-05-31T19:15:39.000Z</published>
+    <updated>2020-05-31T19:16:08.199Z</updated>
+    
+    <content type="html"><![CDATA[<p>星载合成孔径雷达干涉测量(interferometric synthetic apertureradar,InSAR)旨在通过计算两次过境时SAR 影像的相位差来获取数字高程模型. 随之而来的差分雷达干涉技术(differential interferometric synthetic aperture radar, DＧInSAR)则是通过引入外部DEM或三轨/四轨差分实现了地表变形监测.</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;星载合成孔径雷达干涉测量(interferometric synthetic apertureradar,InSAR)旨在通过计算两次过境时SAR 影像的相位差来获取数字高程模型. 随之而来的差分雷达干涉技术(differential interferometric syn
+      
     
     </summary>
     
